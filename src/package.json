@@ -1,0 +1,15 @@
+{
+  "name": "zoologico",
+  "version": "1.0.0",
+  "description": "Sistema de análise de recintos para zoológico",
+  "main": "src/recintos-zoo.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^29.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
